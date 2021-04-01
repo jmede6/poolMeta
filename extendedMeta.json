@@ -7,10 +7,9 @@
         "about": {
             "me": "A team of committed friends with a desire to improve the Cardano ecosystem.",
             "server": "Fully cloud hosted. No downtime. No issues. Just more rewards."
+        },
+        "my-pool-ids": {
+            "0": "ed272b8d1587aac41273ee5f7badf5723784fa9676671d7b52b8c746"
         }
-    },
-    "my-pool-ids": {
-        "0": "ed272b8d1587aac41273ee5f7badf5723784fa9676671d7b52b8c746"
     }
-     "e824e5506e5866dc56131c816d3c51c1"
 }
