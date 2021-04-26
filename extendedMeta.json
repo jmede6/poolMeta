@@ -7,8 +7,8 @@
             "telegram_handle": "https://t.me/julio_MarlinPool"
         },
         "about": {
-            "me": "A team of committed friends with a desire to improve the Cardano ecosystem.",
-            "server": "Fully cloud hosted. No downtime. No issues. Just more rewards."
+            "me": "Based in sunny Australia, our team of committed friends have been following Cardano's remarkable progress over the last few years. With each of us having knowledge in management, social relations and DevOps, we knew running a stake pool is a dream come true. This led us into creating Black Marlin Investments. Much like our desire to improve the cardano ecosystem, we recognise the issues facing the world's oceans today. Being brought up by the coast, we are determined to help by donating to various charities supporting a sustainable ocean ecosystem. Unlike other stake pools, we will provide not only a favourable ROI, but the opportunity to make a real difference. From the rewards our pool produces, 10% will be given to charities helping support our ocean's fragile ecosystem. We hope you can see our cause, and help with saving the world's oceans.",
+            "server": "Our network consists of 3 individual servers each with the neccessary amount of resources to keep costs at a minimum. This brings more rewards to you with donations also going towards keeping the world oceans clean, healthy and sustainable. Our server adiminstrator has operated a cardano node long before stake pools were on mainnet. With a total of one year of expirience under his belt, our trust in him is absolute. The majority of our servers are hosted on the cloud to ensure reliability and security, although we have also taken to hosting a node on a RasberryPi for further decentralization."
         },
         "my-pool-ids": {
             "0": "ed272b8d1587aac41273ee5f7badf5723784fa9676671d7b52b8c746"
